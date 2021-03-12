@@ -1,1 +1,1 @@
-Leia-me
+Projeto web, feito como prendizado em aula para treinamento.
