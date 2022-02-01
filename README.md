@@ -1,1 +1,2 @@
-Projeto web, feito como prendizado em aula para treinamento.
+## Projeto web
+Feito como prendizado em aula com o prof. Bonieck Lacerda para treinamento.
